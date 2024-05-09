@@ -1,0 +1,11 @@
+{
+  "title": "Résumé",
+  "theme": "Thème",
+  "full_name": "Nom et Prénom",
+  "address": "adresse",
+  "phone_number": "Numéro de Téléphone",
+  "profileSummary" : "Résumé de profil",
+  "workExperience": "Expérience de travail",
+  "education": "Education",
+  "skills": "Compétences"
+}

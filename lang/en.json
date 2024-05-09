@@ -1,0 +1,11 @@
+{
+  "title": "Resume",
+  "theme": "Theme",
+  "full_name": "Full Name",
+  "address": "Address",
+  "phone_number": "Phone Number",
+  "profileSummary" : "profile Summary",
+  "workExperience": "work Experience",
+  "education": "education",
+  "skills": "skills"
+}
